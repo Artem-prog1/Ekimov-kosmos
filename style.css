@@ -39,3 +39,14 @@ img:hover {
 .strelka {
     opacity: 1;
 }
+
+article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image{
+    display:flex ;
+    flex-direction: row;
+}
